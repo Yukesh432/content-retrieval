@@ -1,0 +1,215 @@
+{
+  "book_title": "Visualization Techniques",
+  "toc": [
+    {
+      "title": "Preface to Second Edition",
+      "page": "xi",
+      "subsections": []
+    },
+
+    {
+      "chapter": 1,
+      "title": "Introduction",
+      "page": 1,
+      "subsections": [
+        { "title": "How Visualization Works", "page": 3 },
+        { "title": "Positioning in the Field", "page": 12 },
+        { "title": "Book Structure", "page": 15 },
+        { "title": "Notation", "page": 18 },
+        { "title": "Online Material", "page": 18 }
+      ]
+    },
+
+    {
+      "chapter": 2,
+      "title": "From Graphics to Visualization",
+      "page": 21,
+      "subsections": [
+        { "title": "A Simple Example", "page": 22 },
+        { "title": "Graphics Rendering Basics", "page": 28 },
+        { "title": "Rendering the Height Plot", "page": 30 },
+        { "title": "Texture Mapping", "page": 36 },
+        { "title": "Transparency and Blending", "page": 39 },
+        { "title": "Viewing", "page": 43 },
+        { "title": "Putting It All Together", "page": 47 },
+        { "title": "Conclusion", "page": 50 }
+      ]
+    },
+
+    {
+      "chapter": 3,
+      "title": "Data Representation",
+      "page": 53,
+      "subsections": [
+        { "title": "Continuous Data", "page": 53 },
+        { "title": "Sampled Data", "page": 57 },
+        { "title": "Discrete Datasets", "page": 66 },
+        { "title": "Cell Types", "page": 67 },
+        { "title": "Grid Types", "page": 74 },
+        { "title": "Attributes", "page": 81 },
+        { "title": "Computing Derivatives of Sampled Data", "page": 96 },
+        { "title": "Implementation", "page": 100 },
+        { "title": "Advanced Data Representation", "page": 111 },
+        { "title": "Conclusion", "page": 120 }
+      ]
+    },
+
+    {
+      "chapter": 4,
+      "title": "The Visualization Pipeline",
+      "page": 123,
+      "subsections": [
+        { "title": "Conceptual Perspectives", "page": 123 },
+        { "title": "Implementation Perspectives", "page": 136 },
+        { "title": "Algorithm Classification", "page": 144 },
+        { "title": "Conclusion", "page": 145 }
+      ]
+    },
+
+    {
+      "chapter": 5,
+      "title": "Scalar Visualization",
+      "page": 147,
+      "subsections": [
+        { "title": "Color Mapping", "page": 147 },
+        { "title": "Designing Effective Colormaps", "page": 149 },
+        { "title": "Contouring", "page": 163 },
+        { "title": "Height Plots", "page": 176 },
+        { "title": "Conclusion", "page": 181 }
+      ]
+    },
+
+    {
+      "chapter": 6,
+      "title": "Vector Visualization",
+      "page": 183,
+      "subsections": [
+        { "title": "Divergence and Vorticity", "page": 184 },
+        { "title": "Vector Glyphs", "page": 188 },
+        { "title": "Vector Color Coding", "page": 196 },
+        { "title": "Displacement Plots", "page": 200 },
+        { "title": "Stream Objects", "page": 203 },
+        { "title": "Texture-Based Vector Visualization", "page": 223 },
+        { "title": "Simplified Representation of Vector Fields", "page": 234 },
+        { "title": "Illustrative Vector Field Rendering", "page": 250 },
+        { "title": "Conclusion", "page": 252 }
+      ]
+    },
+
+    {
+      "chapter": 7,
+      "title": "Tensor Visualization",
+      "page": 253,
+      "subsections": [
+        { "title": "Principal Component Analysis", "page": 254 },
+        { "title": "Visualizing Components", "page": 259 },
+        { "title": "Visualizing Scalar PCA Information", "page": 259 },
+        { "title": "Visualizing Vector PCA Information", "page": 263 },
+        { "title": "Tensor Glyphs", "page": 266 },
+        { "title": "Fiber Tracking", "page": 269 },
+        { "title": "Illustrative Fiber Rendering", "page": 274 },
+        { "title": "Hyperstreamlines", "page": 280 },
+        { "title": "Conclusion", "page": 283 }
+      ]
+    },
+
+    {
+      "chapter": 8,
+      "title": "Domain-Modeling Techniques",
+      "page": 285,
+      "subsections": [
+        { "title": "Cutting", "page": 285 },
+        { "title": "Selection", "page": 290 },
+        { "title": "Grid Construction from Scattered Points", "page": 292 },
+        { "title": "Grid Processing Techniques", "page": 312 },
+        { "title": "Conclusion", "page": 324 }
+      ]
+    },
+
+    {
+      "chapter": 9,
+      "title": "Image Visualization",
+      "page": 327,
+      "subsections": [
+        { "title": "Image Data Representation", "page": 327 },
+        { "title": "Image Processing and Visualization", "page": 329 },
+        { "title": "Basic Image Algorithms", "page": 330 },
+        { "title": "Shape Representation and Analysis", "page": 345 },
+        { "title": "Conclusion", "page": 402 }
+      ]
+    },
+
+    {
+      "chapter": 10,
+      "title": "Volume Visualization",
+      "page": 405,
+      "subsections": [
+        { "title": "Motivation", "page": 406 },
+        { "title": "Volume Visualization Basics", "page": 409 },
+        { "title": "Image Order Techniques", "page": 422 },
+        { "title": "Object Order Techniques", "page": 428 },
+        { "title": "Volume Rendering vs. Geometric Rendering", "page": 430 },
+        { "title": "Conclusion", "page": 432 }
+      ]
+    },
+
+    {
+      "chapter": 11,
+      "title": "Information Visualization",
+      "page": 435,
+      "subsections": [
+        { "title": "What is Infovis?", "page": 436 },
+        { "title": "Infovis vs. Scivis: A Technical Comparison", "page": 438 },
+        { "title": "Table Visualization", "page": 446 },
+        { "title": "Visualization of Relations", "page": 452 },
+        { "title": "Multivariate Data Visualization", "page": 505 },
+        { "title": "Text Visualization", "page": 532 },
+        { "title": "Conclusion", "page": 547 }
+      ]
+    },
+
+    {
+      "chapter": 12,
+      "title": "Conclusion",
+      "page": 549,
+      "subsections": []
+    },
+
+    {
+      "title": "Appendix A.1 Taxonomies of Visualization Systems",
+      "page": 555,
+      "subsections": []
+    },
+    {
+      "title": "Appendix A.2 Scientific Visualization Software",
+      "page": 557,
+      "subsections": []
+    },
+    {
+      "title": "Appendix A.3 Imaging Software",
+      "page": 561,
+      "subsections": []
+    },
+    {
+      "title": "Appendix A.4 Grid Processing Software",
+      "page": 566,
+      "subsections": []
+    },
+    {
+      "title": "Appendix A.5 Information Visualization Software",
+      "page": 569,
+      "subsections": []
+    },
+
+    {
+      "title": "Bibliography",
+      "page": 575,
+      "subsections": []
+    },
+    {
+      "title": "Index",
+      "page": 590,
+      "subsections": []
+    }
+  ]
+}

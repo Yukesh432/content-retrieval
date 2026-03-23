@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Preface",
+    "page": "vii",
+    "subsections": []
+  },
+  {
+    "chapter": 1,
+    "title": "The Seven Stages of Visualizing Data",
+    "page": 1,
+    "subsections": [
+      { "title": "Why Data Display Requires Planning", "page": 2 },
+      { "title": "An Example", "page": 6 },
+      { "title": "Iteration and Combination", "page": 14 },
+      { "title": "Principles", "page": 15 },
+      { "title": "Onward", "page": 18 }
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "Getting Started with Processing",
+    "page": 19,
+    "subsections": [
+      { "title": "Sketching with Processing", "page": 20 },
+      { "title": "Exporting and Distributing Your Work", "page": 23 },
+      { "title": "Examples and Reference", "page": 24 },
+      { "title": "Functions", "page": 27 },
+      { "title": "Sketching and Scripting", "page": 28 },
+      { "title": "Ready?", "page": 30 }
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "Mapping",
+    "page": 31,
+    "subsections": [
+      { "title": "Drawing a Map", "page": 31 },
+      { "title": "Locations on a Map", "page": 32 },
+      { "title": "Data on a Map", "page": 34 },
+      { "title": "Using Your Own Data", "page": 51 },
+      { "title": "Next Steps", "page": 53 }
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "Time Series",
+    "page": 54,
+    "subsections": [
+      { "title": "Milk, Tea, and Coffee (Acquire and Parse)", "page": 55 },
+      { "title": "Cleaning the Table (Filter and Mine)", "page": 55 },
+      { "title": "A Simple Plot (Represent and Refine)", "page": 57 },
+      { "title": "Labeling the Current Data Set (Refine and Interact)", "page": 59 },
+      { "title": "Drawing Axis Labels (Refine)", "page": 62 },
+      { "title": "Choosing a Proper Representation (Represent and Refine)", "page": 73 },
+      { "title": "Using Rollovers to Highlight Points (Interact)", "page": 76 },
+      { "title": "Ways to Connect Points (Refine)", "page": 77 },
+      { "title": "Text Labels As Tabbed Panes (Interact)", "page": 83 },
+      { "title": "Interpolation Between Data Sets (Interact)", "page": 87 },
+      { "title": "End of the Series", "page": 92 }
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "Connections and Correlations",
+    "page": 94,
+    "subsections": [
+      { "title": "Changing Data Sources", "page": 94 },
+      { "title": "Problem Statement", "page": 95 },
+      { "title": "Preprocessing", "page": 96 },
+      { "title": "Using the Preprocessed Data (Acquire, Parse, Filter, Mine)", "page": 111 },
+      { "title": "Displaying the Results (Represent)", "page": 118 },
+      { "title": "Returning to the Question (Refine)", "page": 121 },
+      { "title": "Sophisticated Sorting: Using Salary As a Tiebreaker (Mine)", "page": 126 },
+      { "title": "Moving to Multiple Days (Interact)", "page": 127 },
+      { "title": "Smoothing Out the Interaction (Refine)", "page": 132 },
+      { "title": "Deployment Considerations (Acquire, Parse, Filter)", "page": 133 }
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "Scatterplot Maps",
+    "page": 145,
+    "subsections": [
+      { "title": "Preprocessing", "page": 145 },
+      { "title": "Loading the Data (Acquire and Parse)", "page": 155 },
+      { "title": "Drawing a Scatterplot of Zip Codes (Mine and Represent)", "page": 157 },
+      { "title": "Highlighting Points While Typing (Refine and Interact)", "page": 158 },
+      { "title": "Show the Currently Selected Point (Refine)", "page": 162 },
+      { "title": "Progressively Dimming and Brightening Points (Refine)", "page": 165 },
+      { "title": "Zooming In (Interact)", "page": 167 },
+      { "title": "Changing How Points Are Drawn When Zooming (Refine)", "page": 177 },
+      { "title": "Deployment Issues (Acquire and Refine)", "page": 178 },
+      { "title": "Next Steps", "page": 180 }
+    ]
+  },
+  {
+    "chapter": 7,
+    "title": "Trees, Hierarchies, and Recursion",
+    "page": 182,
+    "subsections": [
+      { "title": "Using Recursion to Build a Directory Tree", "page": 182 },
+      { "title": "Using a Queue to Load Asynchronously (Interact)", "page": 186 },
+      { "title": "An Introduction to Treemaps", "page": 189 },
+      { "title": "Which Files Are Using the Most Space?", "page": 194 },
+      { "title": "Viewing Folder Contents (Interact)", "page": 199 },
+      { "title": "Improving the Treemap Display (Refine)", "page": 201 },
+      { "title": "Flying Through Files (Interact)", "page": 208 },
+      { "title": "Next Steps", "page": 219 }
+    ]
+  },
+  {
+    "chapter": 8,
+    "title": "Networks and Graphs",
+    "page": 220,
+    "subsections": [
+      { "title": "Simple Graph Demo", "page": 220 },
+      { "title": "A More Complicated Graph", "page": 229 },
+      { "title": "Approaching Network Problems", "page": 240 },
+      { "title": "Advanced Graph Example", "page": 242 },
+      { "title": "Mining Additional Information", "page": 262 }
+    ]
+  },
+  {
+    "chapter": 9,
+    "title": "Acquiring Data",
+    "page": 264,
+    "subsections": [
+      { "title": "Where to Find Data", "page": 265 },
+      { "title": "Tools for Acquiring Data from the Internet", "page": 266 },
+      { "title": "Locating Files for Use with Processing", "page": 268 },
+      { "title": "Loading Text Data", "page": 270 },
+      { "title": "Dealing with Files and Folders", "page": 276 },
+      { "title": "Listing Files in a Folder", "page": 277 },
+      { "title": "Asynchronous Image Downloads", "page": 281 },
+      { "title": "Using openStream() As a Bridge to Java", "page": 284 },
+      { "title": "Dealing with Byte Arrays", "page": 284 },
+      { "title": "Advanced Web Techniques", "page": 284 },
+      { "title": "Using a Database", "page": 288 },
+      { "title": "Dealing with a Large Number of Files", "page": 295 }
+    ]
+  },
+  {
+    "chapter": 10,
+    "title": "Parsing Data",
+    "page": 296,
+    "subsections": [
+      { "title": "Levels of Effort", "page": 296 },
+      { "title": "Tools for Gathering Clues", "page": 298 },
+      { "title": "Text Is Best", "page": 299 },
+      { "title": "Text Markup Languages", "page": 303 },
+      { "title": "Regular Expressions (regexps)", "page": 316 },
+      { "title": "Grammars and BNF Notation", "page": 316 },
+      { "title": "Compressed Data", "page": 317 },
+      { "title": "Vectors and Geometry", "page": 320 },
+      { "title": "Binary Data Formats", "page": 325 },
+      { "title": "Advanced Detective Work", "page": 328 }
+    ]
+  },
+  {
+    "chapter": 11,
+    "title": "Integrating Processing with Java",
+    "page": 331,
+    "subsections": [
+      { "title": "Programming Modes", "page": 331 },
+      { "title": "Additional Source Files (Tabs)", "page": 334 },
+      { "title": "The Preprocessor", "page": 335 },
+      { "title": "API Structure", "page": 336 },
+      { "title": "Embedding PApplet into Java Applications", "page": 338 },
+      { "title": "Using Java Code in a Processing Sketch", "page": 342 },
+      { "title": "Using Libraries", "page": 343 },
+      { "title": "Building with the Source for processing.core", "page": 343 }
+    ]
+  },
+  {
+    "title": "Bibliography",
+    "page": 345,
+    "subsections": []
+  },
+  {
+    "title": "Index",
+    "page": 349,
+    "subsections": []
+  }
+]
