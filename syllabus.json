@@ -1,0 +1,94 @@
+{
+  "course_info": {
+    "course_code": "CACS455",
+    "year_semester": "IV/VIII",
+    "class_load": {
+      "theory_hours_per_week": 3,
+      "practical_hours_per_week": 2
+    }
+  },
+  "units": [
+    {
+      "unit_number": 1,
+      "title": "Introduction to Visualization",
+      "hours": 6,
+      "topics": [
+        "Introduction to Visual Perception",
+        "Visual Representation of Data",
+        "Data Abstraction",
+        "Visual Encodings",
+        "Use of Color",
+        "Perceptual Issues",
+        "Information Overload"
+      ]
+    },
+    {
+      "unit_number": 2,
+      "title": "Creating Visual Representations",
+      "hours": 7,
+      "topics": [
+        "Visualization Reference Model",
+        "Visual Mapping",
+        "Visual Analytics",
+        "Design of Visualization Applications"
+      ]
+    },
+    {
+      "unit_number": 3,
+      "title": "Non-Spatial Data Visualization",
+      "hours": 15,
+      "topics": [
+        "One, Two and Multi-Dimensional Data",
+        "Tabular Data",
+        "Scatter Plot",
+        "Bar Charts",
+        "Stacked Bar Charts",
+        "Dots and Line Charts",
+        "Tree Data",
+        "Hierarchical Structures",
+        "Graph Data",
+        "Graph Drawing and Labeling Rules",
+        "Text and Document Data",
+        "Levels of Text Representation",
+        "Single Text Document Visualization",
+        "Word Cloud",
+        "Flow Data",
+        "Time Series Data",
+        "Characteristics of Time Data",
+        "Time Series Visualization",
+        "Mapping of Time"
+      ]
+    },
+    {
+      "unit_number": 4,
+      "title": "Spatial Data Visualization",
+      "hours": 10,
+      "topics": [
+        "Scalar Fields",
+        "Isocontours (Topographic Terrain Maps)",
+        "Scalar Volumes",
+        "Direct Volume Rendering",
+        "Multidimensional Transfer Functions",
+        "Maps (Dot, Pixel)",
+        "Vector Fields",
+        "Defining Marks and Channels"
+      ]
+    },
+    {
+      "unit_number": 5,
+      "title": "Software Tools and Data for Visualization",
+      "hours": 10,
+      "topics": [
+        "Iris Dataset",
+        "Detroit Dataset",
+        "Breakfast Cereal Dataset",
+        "Dow Jones Industrial Average Dataset",
+        "MS Spreadsheet",
+        "Python",
+        "Matlab",
+        "Java",
+        "Tableau"
+      ]
+    }
+  ]
+}
